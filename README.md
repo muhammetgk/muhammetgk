@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammet%20Gök&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Turkey%20🇹🇷&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammet%20GÃ¶k&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Turkey%20ğŸ‡¹ğŸ‡·&descAlignY=58&descAlign=50" />
 
 </div>
 
@@ -14,23 +14,23 @@
 
 ---
 
-## 👋 Hakkımda
+## ğŸ‘‹ HakkÄ±mda
 
 ```typescript
 const muhammet: Developer = {
-  location:    "Turkey 🇹🇷",
+  location:    "Turkey ğŸ‡¹ğŸ‡·",
   role:        "Software Engineer",
   focus:       ["Full-Stack Web", "AI/ML", "Computer Vision", "Blockchain"],
   currentWork: "Building scalable applications & AI-powered solutions",
   learning:    ["LLM Integration", "Edge AI", "Web3"],
   openTo:      ["Collaboration", "Open Source", "Interesting Projects"],
-  contact:     "linkedin.com/in/muhammet-gök"
+  contact:     "linkedin.com/in/muhammet-gÃ¶k"
 };
 ```
 
 ---
 
-## 🛠️ Teknoloji Yığını
+## ğŸ› ï¸ Teknoloji YÄ±ÄŸÄ±nÄ±
 
 **Diller**
 
@@ -51,14 +51,14 @@ const muhammet: Developer = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**AI / ML / Görüntü İşleme**
+**AI / ML / GÃ¶rÃ¼ntÃ¼ Ä°ÅŸleme**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Veritabanı**
+**VeritabanÄ±**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -70,7 +70,7 @@ const muhammet: Developer = {
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-**DevOps & Araçlar**
+**DevOps & AraÃ§lar**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -79,7 +79,7 @@ const muhammet: Developer = {
 
 ---
 
-## 📊 GitHub İstatistikleri
+## ğŸ“Š GitHub Ä°statistikleri
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammetgk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
@@ -92,20 +92,22 @@ const muhammet: Developer = {
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## ğŸš€ Ã–ne Ã‡Ä±kan Projeler
 
 <div align="center">
 
 [![enerji-uretimtahmin](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=enerji-uretimtahmin&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/enerji-uretimtahmin)
 [![tourism-nlp](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=tourism-reviews-nlp&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/tourism-reviews-nlp)
 [![otelpro](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=otelpro&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/otelpro)
+
 [![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=crypto-wallet-app&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/crypto-wallet-app)
+[![ethereum-secim](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=ethereum-secim-uygulamasi&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/ethereum-secim-uygulamasi)
 
 </div>
 
 ---
 
-## 🐍 Katkı Animasyonu
+## ğŸ“ˆ KatkÄ± GrafiÄŸi
 
 <div align="center">
   <picture>
@@ -119,8 +121,9 @@ const muhammet: Developer = {
 
 <div align="center">
 
-*"Kod yazmak sorun çözmektir. İyi kod yazmak ise ileride sorun yaratmamaktır."*
+*"Kod yazmak sorun Ã§Ã¶zmektir. Ä°yi kod yazmak ise ileride sorun yaratmamaktÄ±r."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
+
