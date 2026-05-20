@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammet%20G%C3%B6k&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=58&descAlign=50" />
 
@@ -99,6 +99,7 @@ const muhammet: Developer = {
 <div align="center">
 
 [![admin-panel](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=admin-panel-nextjs&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/admin-panel-nextjs)
+[![heart-disease](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=heart-disease-detection&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/heart-disease-detection)
 [![enerji-uretimtahmin](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=enerji-uretimtahmin&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/enerji-uretimtahmin)
 [![ethereum-secim](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=ethereum-secim-uygulamasi&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/ethereum-secim-uygulamasi)
 [![social-network](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=social-network-analysis&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/social-network-analysis)
@@ -127,3 +128,4 @@ const muhammet: Developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
+
