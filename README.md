@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammet%20GÃ¶k&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Turkey%20ğŸ‡¹ğŸ‡·&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammet%20G%C3%B6k&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=58&descAlign=50" />
 
 </div>
 
@@ -14,29 +14,30 @@
 
 ---
 
-## ğŸ‘‹ HakkÄ±mda
+## About Me
 
 ```typescript
 const muhammet: Developer = {
-  location:    "Turkey ğŸ‡¹ğŸ‡·",
+  location:    "Turkey",
   role:        "Software Engineer",
   focus:       ["Full-Stack Web", "AI/ML", "Computer Vision", "Blockchain"],
   currentWork: "Building scalable applications & AI-powered solutions",
   learning:    ["LLM Integration", "Edge AI", "Web3"],
   openTo:      ["Collaboration", "Open Source", "Interesting Projects"],
-  contact:     "linkedin.com/in/muhammet-gÃ¶k"
+  contact:     "linkedin.com/in/muhammet-gok"
 };
 ```
 
 ---
 
-## ğŸ› ï¸ Teknoloji YÄ±ÄŸÄ±nÄ±
+## Tech Stack
 
-**Diller**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 **Frontend**
 
@@ -51,14 +52,14 @@ const muhammet: Developer = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**AI / ML / GÃ¶rÃ¼ntÃ¼ Ä°ÅŸleme**
+**AI / ML / Computer Vision**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**VeritabanÄ±**
+**Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -69,8 +70,9 @@ const muhammet: Developer = {
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 
-**DevOps & AraÃ§lar**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -79,7 +81,7 @@ const muhammet: Developer = {
 
 ---
 
-## ğŸ“Š GitHub Ä°statistikleri
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammetgk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
@@ -92,28 +94,26 @@ const muhammet: Developer = {
 
 ---
 
-## ğŸš€ Ã–ne Ã‡Ä±kan Projeler
+## Featured Projects
 
 <div align="center">
 
 [![enerji-uretimtahmin](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=enerji-uretimtahmin&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/enerji-uretimtahmin)
 [![tourism-nlp](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=tourism-reviews-nlp&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/tourism-reviews-nlp)
-[![otelpro](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=otelpro&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/otelpro)
-
-[![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=crypto-wallet-app&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/crypto-wallet-app)
 [![ethereum-secim](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=ethereum-secim-uygulamasi&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/ethereum-secim-uygulamasi)
+[![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=crypto-wallet-app&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/crypto-wallet-app)
 
 </div>
 
 ---
 
-## ğŸ“ˆ KatkÄ± GrafiÄŸi
+## Contribution Graph
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammetgk/muhammetgk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammetgk/muhammetgk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/muhammetgk/muhammetgk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution graph" src="https://raw.githubusercontent.com/muhammetgk/muhammetgk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -121,9 +121,8 @@ const muhammet: Developer = {
 
 <div align="center">
 
-*"Kod yazmak sorun Ã§Ã¶zmektir. Ä°yi kod yazmak ise ileride sorun yaratmamaktÄ±r."*
+*"Code is not just instructions for machines — it's communication between humans."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
-
