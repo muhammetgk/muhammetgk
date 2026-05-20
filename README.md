@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammet%20G%C3%B6k&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Turkey%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=58&descAlign=50" />
 
@@ -57,7 +57,7 @@ const muhammet: Developer = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **Database**
 
@@ -84,12 +84,17 @@ const muhammet: Developer = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammetgk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetgk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammetgk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetgk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=muhammetgk&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammetgk&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
@@ -98,12 +103,14 @@ const muhammet: Developer = {
 
 <div align="center">
 
-[![admin-panel](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=admin-panel-nextjs&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/admin-panel-nextjs)
-[![heart-disease](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=heart-disease-detection&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/heart-disease-detection)
-[![enerji-uretimtahmin](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=enerji-uretimtahmin&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/enerji-uretimtahmin)
-[![ethereum-secim](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=ethereum-secim-uygulamasi&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/ethereum-secim-uygulamasi)
-[![social-network](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=social-network-analysis&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/social-network-analysis)
-[![tourism-nlp](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=tourism-reviews-nlp&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/tourism-reviews-nlp)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [admin-panel-nextjs](https://github.com/muhammetgk/admin-panel-nextjs) | B2B Pharma Admin Panel — Full CRUD, Zustand, TanStack Query | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [heart-disease-detection](https://github.com/muhammetgk/heart-disease-detection) | 1D CNN vs 7 ML algorithms on UCI Heart Disease dataset | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [enerji-uretimtahmin](https://github.com/muhammetgk/enerji-uretimtahmin) | Wind energy prediction with ML & DL — Graduation Project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| [ethereum-secim-uygulamasi](https://github.com/muhammetgk/ethereum-secim-uygulamasi) | Decentralized voting app on Ethereum blockchain | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| [social-network-analysis](https://github.com/muhammetgk/social-network-analysis) | 7 link prediction algorithms + Random Forest on Facebook SNAP | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit--learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| [tourism-reviews-nlp](https://github.com/muhammetgk/tourism-reviews-nlp) | NLP sentiment analysis & text classification on tourism reviews | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
@@ -128,4 +135,3 @@ const muhammet: Developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
-
