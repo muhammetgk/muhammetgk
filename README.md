@@ -101,6 +101,7 @@ const muhammet: Developer = {
 [![admin-panel](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=admin-panel-nextjs&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/admin-panel-nextjs)
 [![enerji-uretimtahmin](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=enerji-uretimtahmin&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/enerji-uretimtahmin)
 [![ethereum-secim](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=ethereum-secim-uygulamasi&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/ethereum-secim-uygulamasi)
+[![social-network](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=social-network-analysis&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/social-network-analysis)
 [![tourism-nlp](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=tourism-reviews-nlp&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/tourism-reviews-nlp)
 
 </div>
