@@ -87,7 +87,7 @@ const muhammet: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetgk&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=muhammetgk&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -96,8 +96,10 @@ const muhammet: Developer = {
 
 <div align="center">
 
-[![tourism-nlp](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=tourism-reviews-nlp-projec&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/tourism-reviews-nlp-projec)
-[![otelpro](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=otelpro-main&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/otelpro-main)
+[![enerji-uretimtahmin](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=enerji-uretimtahmin&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/enerji-uretimtahmin)
+[![tourism-nlp](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=tourism-reviews-nlp&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/tourism-reviews-nlp)
+[![otelpro](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=otelpro&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/otelpro)
+[![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=crypto-wallet-app&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/crypto-wallet-app)
 
 </div>
 
