@@ -84,12 +84,6 @@ const muhammet: Developer = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammetgk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetgk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=muhammetgk&theme=tokyonight&hide_border=true" />
 </div>
 
