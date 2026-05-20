@@ -98,10 +98,10 @@ const muhammet: Developer = {
 
 <div align="center">
 
+[![admin-panel](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=admin-panel-nextjs&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/admin-panel-nextjs)
 [![enerji-uretimtahmin](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=enerji-uretimtahmin&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/enerji-uretimtahmin)
-[![tourism-nlp](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=tourism-reviews-nlp&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/tourism-reviews-nlp)
 [![ethereum-secim](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=ethereum-secim-uygulamasi&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/ethereum-secim-uygulamasi)
-[![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=crypto-wallet-app&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/crypto-wallet-app)
+[![tourism-nlp](https://github-readme-stats.vercel.app/api/pin/?username=muhammetgk&repo=tourism-reviews-nlp&theme=tokyonight&hide_border=true)](https://github.com/muhammetgk/tourism-reviews-nlp)
 
 </div>
 
